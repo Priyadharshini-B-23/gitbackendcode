@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Micro\\Recruitment_Portal_Project\\Recruitment_Portal_Project\\wwwroot\\Images\\9f2327a8-0cf0-4a24-81c9-a49cab400fad_about-page-img.png",
+      "PackagePath": "staticwebassets\\Images\\9f2327a8-0cf0-4a24-81c9-a49cab400fad_about-page-img.png"
+    },
+    {
+      "Id": "D:\\Micro\\Recruitment_Portal_Project\\Recruitment_Portal_Project\\wwwroot\\Images\\d5ac0f13-c581-4934-903d-af29ef56f093_about-page-img.png",
+      "PackagePath": "staticwebassets\\Images\\d5ac0f13-c581-4934-903d-af29ef56f093_about-page-img.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Recruitment_Portal_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Recruitment_Portal_Project.props",
+      "PackagePath": "build\\Recruitment_Portal_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Recruitment_Portal_Project.props",
+      "PackagePath": "buildMultiTargeting\\Recruitment_Portal_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Recruitment_Portal_Project.props",
+      "PackagePath": "buildTransitive\\Recruitment_Portal_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "97OucN6YgO3xOkht7qalIbovFFqwVb2kEAqXPcBHf8sxo0YQ3sLRI63c4Y//LunElCausUwVojhZvFtBZOBD+g==",
+  "success": true,
+  "projectFilePath": "D:\\MicroProject\\Selenium\\SeleniumReact\\SeleniumReact.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\priyadharshini.b.OFS1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\priyadharshini.b.OFS1\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\priyadharshini.b.OFS1\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\priyadharshini.b.OFS1\\.nuget\\packages\\selenium.webdriver\\4.19.0\\selenium.webdriver.4.19.0.nupkg.sha512"
+  ],
+  "logs": []
+}
